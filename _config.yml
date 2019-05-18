@@ -1,9 +1,9 @@
 # main text of home
 name: Mochammad Andrian Maulana
-bio: Informatic Engineering Student
+bio: informatic engineering student
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about my journey
 
 # if it's an external image, update below for true
 # better with square images
@@ -35,11 +35,11 @@ disqus:
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
-# twitter: mytwitter
+twitter: andrianm28
 # google: mygoogle
-# instagram: myinstagram
+instagram: andrianm28
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: andrianm28
 # youtube: myyoutube
 # spotify: myspotify
 github: andrianm28
@@ -48,7 +48,7 @@ github: andrianm28
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-# medium: medium
+medium: andrianm28
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: andrianmaulana28@gmail.com
@@ -81,7 +81,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: true
+# blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
