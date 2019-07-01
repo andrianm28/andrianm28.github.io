@@ -1,7 +1,7 @@
 ---
 title: ":red_circle: grakify "
 layout: post
-date: 2016-01-23 22:10
+date: 2018-10-10 09:10
 tag: jekyll
 image: https://koppl.in/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
