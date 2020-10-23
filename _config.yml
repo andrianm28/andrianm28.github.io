@@ -83,7 +83,6 @@ projects: true
 about: true
 # blog: true
 
-typingtest: true
 fp: true
 
 # do you want to show the "read time" of the posts?
